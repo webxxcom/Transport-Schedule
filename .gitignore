@@ -33,3 +33,6 @@
 *.ipch
 /ISOR/x64
 /x64/Debug
+/.vs
+/.vs
+*.vsidx
