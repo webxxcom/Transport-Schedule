@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+*.ipch
+/ISOR/x64
+/x64/Debug
